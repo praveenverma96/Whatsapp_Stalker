@@ -1,4 +1,4 @@
-You may enter any whatsapp user's Number and this program will notify you every time the User Opened Whtasapp using a Telegram Bot. This program Uses Python and selenium webdriver to gather informa…
+You may enter any whatsapp user's Number and this program will notify you every time the User Opened Whtasapp using a Telegram Bot. This program Uses Python and selenium webdriver to gather Online status.
 
 
 
