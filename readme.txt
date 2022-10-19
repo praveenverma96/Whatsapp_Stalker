@@ -1,3 +1,7 @@
+How this works ?
+
+We stored Whatsapp session on Selenium's Chrome browser, After that it checks the status of our desired whatsapp contact from web.whatsapp.com
+
 You may enter any whatsapp user's Number and this program will notify you every time the User Opened Whtasapp using a Telegram Bot. This program Uses Python and selenium webdriver to gather Online status.
 
 
